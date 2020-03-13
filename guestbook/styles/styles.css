@@ -1,0 +1,24 @@
+fieldset{
+    border: solid 2px green;
+    padding: 1em;
+}
+
+legend{
+    margin: 1rem;
+}
+
+button{
+    margin-top: 3rem;
+}
+
+.err{
+    color:darkred;
+    visibility: hidden;
+}
+.div{
+    visibility: hidden;
+}
+
+.div2{
+    visibility: hidden;
+}
